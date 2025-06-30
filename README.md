@@ -1,3 +1,3 @@
-◆ OS: Win11 / ArchLinux
+◆ OS: ArchLinux
 
 ◇ PL: Rust / Golang
